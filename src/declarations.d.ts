@@ -1,0 +1,1 @@
+declare module '@knapsack/sandbox-components/css' {}
