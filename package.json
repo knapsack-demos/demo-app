@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@knapsack-cloud/demo": "^1.9.32",
+    "@knapsack-cloud/demo": "^1.9.33",
     "@knapsack/sandbox-components": "^4.89.11",
     "@tanstack/react-router": "^1.166.3",
     "lucide-react": "^0.577.0",
